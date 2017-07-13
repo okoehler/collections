@@ -1,5 +1,5 @@
 {
-    "name": "okoehler/collections",
+    "name": "doctrine/collections",
     "type": "library",
     "description": "Collections Abstraction library",
     "keywords": ["collections", "array", "iterator"],
